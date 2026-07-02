@@ -2,13 +2,6 @@
 
 A web app that predicts median house value from district-level housing statistics, using a Polynomial Regression model trained on the California Housing dataset. Built with **Streamlit** and **scikit-learn**.
 
-🔗 **Live demo:** # 🏠 Housing Price Predictor
-
-A web app that predicts median house value from district-level housing statistics, using a Polynomial Regression model trained on the California Housing dataset. Built with **Streamlit** and **scikit-learn**.
-
-🔗 **Live demo:**# 🏠 Housing Price Predictor
-
-A web app that predicts median house value from district-level housing statistics, using a Polynomial Regression model trained on the California Housing dataset. Built with **Streamlit** and **scikit-learn**.
 
 🔗 **Live demo:** https://housinglinear-b3zcwuijmy73fa7tdrpmmo.streamlit.app/
 
